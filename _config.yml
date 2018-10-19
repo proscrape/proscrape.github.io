@@ -1,5 +1,5 @@
 # --- General options --- #
-
+email : 'anujmenta@gmail.com'
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -24,6 +24,7 @@ description: Web Scraping solutions for everyone!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Pricing : "pricing"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -71,7 +72,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  email: "anujmenta@example.com"
+  email: "anujmenta@gmail.com"
   facebook: anujmenta
   github: anujmenta
   twitter: anujmenta

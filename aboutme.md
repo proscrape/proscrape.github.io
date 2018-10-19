@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Anuj Menta. I have the following qualities:
+My name is Anuj Menta. I am:
 
 - Speaker at multiple International Python Conferences
 - Expert mentor at Codementor. Hundreds of personal sessions to scrape different websites
