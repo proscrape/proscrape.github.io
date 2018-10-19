@@ -16,7 +16,7 @@ baseurl: ""
 title: "Welcome"
 
 # Short description of your site
-description: Web Scraping solutions for everyone!
+description: Professional Web Scraping solutions using Python. Choose from BeautifulSoup Selenium and Scrapy. We scrape your data. 
 
 # --- Navigation bar options --- #
 
