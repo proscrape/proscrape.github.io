@@ -4,13 +4,14 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Anuj Menta. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Speaker at multiple International Python Conferences
+- Expert mentor at Codementor. Hundreds of personal sessions to scrape different websites
+- Writing code since 5+ years
+- Mathematics and Computing graduate from Indian Institue of Technology(IIT), Kharagpur. Batch of '17
 
-What else do you need?
+### Talks
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Pycon India '17 : Coming soon
+Pycon France'18 : Coming soon
