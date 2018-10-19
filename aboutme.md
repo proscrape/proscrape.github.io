@@ -14,4 +14,5 @@ My name is Anuj Menta. I am:
 ### Talks
 
 Pycon India '17 : Coming soon
+
 Pycon France'18 : Coming soon
