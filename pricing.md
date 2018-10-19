@@ -11,4 +11,4 @@ The pricing depends on multiple factors :
 
 to name a few......
 
-As soon as you send us the requirements, we will reply with 24 hours with the approximate cost to complete your scraping exercise. Send[https://proscrape.github.io/quote] us your requirements. 
+As soon as you send us the requirements, we will reply with 24 hours with the approximate cost to complete your scraping exercise. [Send](https://proscrape.github.io/quote) us your requirements. 
