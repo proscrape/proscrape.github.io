@@ -13,7 +13,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "Welcomd"
+title: "Welcome"
 
 # Short description of your site
 description: Web Scraping solutions for everyone!
@@ -135,7 +135,7 @@ share-links-active:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 150
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
